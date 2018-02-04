@@ -1,2 +1,3 @@
 # Automy
-Collection of useful scripts that makes your life easier
+#Original tutorial: https://pythontips.com/2017/04/13/making-a-reddit-facebook-messenger-bot/
+A FB chatbot that can answer simple queries: News, Comics, Motivation, Next episode info of TV series ...
